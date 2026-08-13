@@ -1,0 +1,16 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "Stock-Trading-Platform"
+  },
+  "license": "ISC",
+  "author": "Shyam-Rathod",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  }
+}
